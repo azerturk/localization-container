@@ -4,7 +4,10 @@
     "type": "apiato-container",
     "license": "MIT",
     "require": {
-        "ext-intl": "*"
+        "ext-intl": "*",
+        "apiato/core": "^8.13.0"
+    },
+    "require-dev": {
     },
     "extra": {
         "apiato": {
