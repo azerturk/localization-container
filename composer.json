@@ -5,7 +5,7 @@
     "license": "MIT",
     "require": {
         "ext-intl": "*",
-        "apiato/core": "^8.13.0"
+        "apiato/core": "^13.1"
     },
     "require-dev": {
     },
